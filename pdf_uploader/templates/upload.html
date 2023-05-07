@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Uploader</title>
+</head>
+<body>
+    <h1>Upload a PubMed file</h1>
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="pubmed_file" accept=".txt">
+        <br><br>
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>
+
