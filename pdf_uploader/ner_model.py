@@ -1,7 +1,8 @@
 from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 
 #Load the pre-trained NER model for drug name and adverse effect detection
-def ner_pipeline():   
+def load_ner_model():
+    from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
     model_checkpoint = "jsylee/scibert_scivocab_uncased-finetuned-ner"
     ner_tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, model_max_length=512)
     ner_model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, num_labels=5,
