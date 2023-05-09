@@ -1,24 +1,35 @@
-import ner_pipeline
+#from ner_model import load_ner_model
+from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 from Bio import Medline
 
+def load_ner_model():
+    model_checkpoint = "jsylee/scibert_scivocab_uncased-finetuned-ner"
+    ner_tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, model_max_length=512)
+    ner_model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, num_labels=5,
+                                                            id2label={0: 'O', 1: 'B-DRUG', 2: 'I-DRUG', 3: 'B-EFFECT', 4: 'I-EFFECT'}
+                                                            )        
+    ner_pipeline = pipeline(task='ner', model=ner_model, tokenizer=ner_tokenizer)
+
+    return ner_pipeline
 
 class PubMedRecord:
 
     def __init__(self, record):
         self.record_id = record['PMID']
-        self.article_identifier = record['AID']
-        self.author = record['AU']
-        self.affiliation = record['AD']
-        self.title = record['TI']
-        self.publication_date = record['DP']
-        self.publication_type = record['PT']
-        self.location_identifier = record['LID']
-        self.abstract = record['AB']
+        self.article_identifier = record.get('AID', None)
+        self.author = record.get('AU', None)
+        self.affiliation = record.get('AD', None)
+        self.title = record.get('TI', None)
+        self.publication_date = record.get('DP', None)
+        self.publication_type = record.get('PT', None)
+        self.location_identifier = record.get('LID', None)
+        self.abstract = record.get('AB', None)
         self.ner = self.process()
         self.drug_entities = self.detect_drugs()
         self.ade_entities = self.detect_ade()
 
     def process(self):
+        ner_pipeline = load_ner_model()
         ner = ner_pipeline(self.abstract)
         return ner
 
@@ -57,7 +68,15 @@ class PubMedRecordsList:
     
     def __init__(self, pubmed_file):
         self.records = [PubMedRecord(record) for record in Medline.parse(pubmed_file)]
-        self.list_of_unique_drugs = list(set([record.drug_entities for record in self.records]))
+        self.list_of_unique_drugs = list(self.unique_drugs())
+
+    def unique_drugs(self):
+        unique_drugs = set()
+        for record in self.records:
+            for drug in record.drug_entities:
+                unique_drugs.add(drug)
+        return unique_drugs
+
         
 
 
@@ -76,11 +95,14 @@ class Drug:
 
 
 
-drug = Drug()
-
 class ADE:
 
     def __init__(self, ade_name, drug):
         self.ade_name = ade_name
         self.records = drug.records_reported_the_drug       
         self.list_of_records_per_ade = [record for record in drug.records_reported_the_drug if ade_name in record.ade_entities]
+
+
+
+with open("test_data.txt") as handle:
+    records_list = PubMedRecordsList(handle)
