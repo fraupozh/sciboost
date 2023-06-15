@@ -1,0 +1,1988 @@
+PMID- 35830649
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220810
+LR  - 20221021
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 387
+IP  - 4
+DP  - 2022 Jul 28
+TI  - Overall Survival with Brentuximab Vedotin in Stage III or IV Hodgkin's Lymphoma.
+PG  - 310-320
+LID - 10.1056/NEJMoa2206125 [doi]
+AB  - BACKGROUND: Five-year follow-up in a trial involving patients with previously 
+      untreated stage III or IV classic Hodgkin's lymphoma showed long-term 
+      progression-free survival benefits with first-line therapy with brentuximab 
+      vedotin, a CD30-directed antibody-drug conjugate, plus doxorubicin, vinblastine, 
+      and dacarbazine (A+AVD), as compared with doxorubicin, bleomycin, vinblastine, 
+      and dacarbazine (ABVD). A planned interim analysis indicated a potential benefit 
+      with regard to overall survival; data from a median of 6 years of follow-up are 
+      now available. METHODS: We randomly assigned patients in a 1:1 ratio to receive 
+      up to six cycles of A+AVD or ABVD. The primary end point, modified 
+      progression-free survival, has been reported previously. The key secondary end 
+      point was overall survival in the intention-to-treat population. Safety was also 
+      assessed. RESULTS: A total of 664 patients were assigned to receive A+AVD and 670 
+      to receive ABVD. At a median follow-up of 73.0 months, 39 patients in the A+AVD 
+      group and 64 in the ABVD group had died (hazard ratio, 0.59; 95% confidence 
+      interval [CI], 0.40 to 0.88; P = 0.009). The 6-year overall survival estimates 
+      were 93.9% (95% CI, 91.6 to 95.5) in the A+AVD group and 89.4% (95% CI, 86.6 to 
+      91.7) in the ABVD group. Progression-free survival was longer with A+AVD than 
+      with ABVD (hazard ratio for disease progression or death, 0.68; 95% CI, 0.53 to 
+      0.86). Fewer patients in the A+AVD group than in the ABVD group received 
+      subsequent therapy, including transplantation, and fewer second cancers were 
+      reported with A+AVD (in 23 vs. 32 patients). Primary prophylaxis with granulocyte 
+      colony-stimulating factor was recommended after an increased incidence of febrile 
+      neutropenia was observed with A+AVD. More patients had peripheral neuropathy with 
+      A+AVD than with ABVD, but most patients in the two groups had resolution or 
+      amelioration of the event by the last follow-up. CONCLUSIONS: Patients who 
+      received A+AVD for the treatment of stage III or IV Hodgkin's lymphoma had a 
+      survival advantage over those who received ABVD. (Funded by Takeda Development 
+      Center Americas and Seagen; ECHELON-1 ClinicalTrials.gov number, NCT01712490; 
+      EudraCT number, 2011-005450-60.).
+CI  - Copyright © 2022 Massachusetts Medical Society.
+FAU - Ansell, Stephen M
+AU  - Ansell SM
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Radford, John
+AU  - Radford J
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Connors, Joseph M
+AU  - Connors JM
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Długosz-Danecka, Monika
+AU  - Długosz-Danecka M
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Kim, Won-Seog
+AU  - Kim WS
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Gallamini, Andrea
+AU  - Gallamini A
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Ramchandren, Radhakrishnan
+AU  - Ramchandren R
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Friedberg, Jonathan W
+AU  - Friedberg JW
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Advani, Ranjana
+AU  - Advani R
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Hutchings, Martin
+AU  - Hutchings M
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Evens, Andrew M
+AU  - Evens AM
+AUID- ORCID: 0000-0002-6900-1824
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Smolewski, Piotr
+AU  - Smolewski P
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Savage, Kerry J
+AU  - Savage KJ
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Bartlett, Nancy L
+AU  - Bartlett NL
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Eom, Hyeon-Seok
+AU  - Eom HS
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Abramson, Jeremy S
+AU  - Abramson JS
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Dong, Cassie
+AU  - Dong C
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Campana, Frank
+AU  - Campana F
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Fenton, Keenan
+AU  - Fenton K
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Puhlmann, Markus
+AU  - Puhlmann M
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+FAU - Straus, David J
+AU  - Straus DJ
+AD  - From the Division of Hematology, Mayo Clinic, Rochester, MN (S.M.A.); the 
+      University of Manchester and the Christie NHS Foundation Trust, Manchester 
+      Academic Health Science Centre, Manchester, United Kingdom (J.R.); BC Cancer 
+      Centre for Lymphoid Cancer, Vancouver (J.M.C., K.J.S.); Maria Sklodowska-Curie 
+      National Research Institute of Oncology, Krakow (M.D.-D.), and the Department of 
+      Experimental Hematology, Medical University of Lodz, Lodz (P.S.) - both in 
+      Poland; the Division of Hematology-Oncology, Department of Internal Medicine, 
+      Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 
+      (W.-S.K.), and the Department of Hematology-Oncology, Center for Hematologic 
+      Malignancy, National Cancer Center, Goyang (H.-S.E.) - both in South Korea; 
+      Research and Innovation Department, Antoine-Lacassagne Cancer Center, Nice, 
+      France (A.G.); the University of Tennessee Graduate School of Medicine, Knoxville 
+      (R.R.); Wilmot Cancer Institute, University of Rochester, Rochester (J.W.F.), and 
+      the Department of Medicine, Lymphoma Service, Memorial Sloan Kettering Cancer 
+      Center, New York (D.J.S.) - both in New York; the Department of Medicine, 
+      Division of Oncology, Stanford University, Stanford, CA (R.A.); the Department of 
+      Hematology, Rigshospitalet, Copenhagen University Hospital, Copenhagen (M.H.); 
+      the Division of Blood Disorders, Rutgers Cancer Institute of New Jersey, New 
+      Brunswick (A.M.E.); Washington University School of Medicine Siteman Cancer 
+      Center, St. Louis (N.L.B.); Massachusetts General Hospital, Boston (J.S.A.), and 
+      Takeda Development Center Americas, Lexington (C.D., F.C.) - both in 
+      Massachusetts; and Seagen, Bothell, WA (K.F., M.P.).
+CN  - ECHELON-1 Study Group
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01712490
+SI  - EudraCT/2011-005450-60
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20220713
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Antineoplastic Agents, Immunological)
+RN  - 11056-06-7 (Bleomycin)
+RN  - 5V9KLZ54CY (Vinblastine)
+RN  - 7GR28W0FJI (Dacarbazine)
+RN  - 7XL5ISS668 (Brentuximab Vedotin)
+RN  - 80168379AG (Doxorubicin)
+SB  - IM
+CIN - N Engl J Med. 2022 Jul 28;387(4):370-372. PMID: 35830618
+CIN - N Engl J Med. 2022 Oct 20;387(16):1527. PMID: 36260800
+MH  - *Antineoplastic Agents, Immunological/adverse effects/therapeutic use
+MH  - *Antineoplastic Combined Chemotherapy Protocols/adverse effects/therapeutic use
+MH  - Bleomycin/administration & dosage/adverse effects
+MH  - *Brentuximab Vedotin/administration & dosage/adverse effects
+MH  - Dacarbazine/administration & dosage/adverse effects
+MH  - Disease-Free Survival
+MH  - Doxorubicin/administration & dosage/adverse effects
+MH  - Follow-Up Studies
+MH  - *Hodgkin Disease/drug therapy/mortality/pathology
+MH  - Humans
+MH  - Neoplasm Staging
+MH  - Survival Analysis
+MH  - Treatment Outcome
+MH  - Vinblastine/administration & dosage/adverse effects
+EDAT- 2022/07/14 06:00
+MHDA- 2022/08/11 06:00
+CRDT- 2022/07/13 16:03
+PHST- 2022/07/14 06:00 [pubmed]
+PHST- 2022/08/11 06:00 [medline]
+PHST- 2022/07/13 16:03 [entrez]
+AID - 10.1056/NEJMoa2206125 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2022 Jul 28;387(4):310-320. doi: 10.1056/NEJMoa2206125. Epub 2022 
+      Jul 13.
+
+PMID- 35867960
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230109
+LR  - 20230208
+IS  - 1527-7755 (Electronic)
+IS  - 0732-183X (Linking)
+VI  - 41
+IP  - 2
+DP  - 2023 Jan 10
+TI  - Brentuximab Vedotin Plus AVD for First-Line Treatment of Early-Stage Unfavorable 
+      Hodgkin Lymphoma (BREACH): A Multicenter, Open-Label, Randomized, Phase II Trial.
+PG  - 327-335
+LID - 10.1200/JCO.21.01281 [doi]
+AB  - PURPOSE: The prognosis of patients with early-stage unfavorable Hodgkin lymphoma 
+      remains unsatisfactory. We assessed the efficacy and safety of brentuximab 
+      vedotin plus doxorubicin, vinblastine, and dacarbazine (BV-AVD) in previously 
+      untreated, early-stage unfavorable Hodgkin lymphoma (ClinicalTrials.gov 
+      identifier: NCT02292979). METHODS: BREACH is a multicenter, randomized, 
+      open-label, phase II trial. Eligible patients were age 18-60 years with ≥ 1 
+      unfavorable EORTC/LYSA criterion. Patients were randomly assigned (2:1) to four 
+      cycles of BV-AVD or standard doxorubicin, bleomycin, vincristine, and dacarbazine 
+      (ABVD), followed by 30 Gy involved node radiotherapy. The primary end point was 
+      the positron emission tomography (PET) response rate after two cycles by expert 
+      independent review using the Deauville score. The study was designed to test if 
+      the PET-negative rate after two cycles of BV-AVD was superior to 75%. We 
+      hypothesized a 10% increase in the PET-negative rate after two cycles of BV-AVD. 
+      RESULTS: Between March 2015 and October 2016, 170 patients were enrolled. After 
+      two cycles, the primary end point of the study was met: 93 (82.3%; 90% CI, 75.3 
+      to 88.0) of 113 patients in the BV-AVD arm were PET-negative (Deauville score 
+      1-3) compared with 43 (75.4%; 90% CI, 64.3% to 84.5%) of 57 in the ABVD arm. The 
+      2-year progression-free survival (PFS) was 97.3% (95% CI, 91.9 to 99.1) and 92.6% 
+      (95% CI, 81.4% to 97.2%) in the BV-AVD and ABVD arms, respectively. High total 
+      metabolic tumor volume was associated with a significantly shorter PFS (hazard 
+      ratio, 17.9; 95% CI, 2.2 to 145.5; P < .001). For patients with high total 
+      metabolic tumor volume, the 2-year PFS rate was 90.9% (95% CI, 74.4 to 97.0) and 
+      70.7% (95% CI, 39.4% to 87.9%) in the BV-AVD and ABVD arms, respectively. 
+      CONCLUSION: BV-AVD demonstrated an improvement in the PET-negative rate compared 
+      with ABVD after two cycles.
+FAU - Fornecker, Luc-Matthieu
+AU  - Fornecker LM
+AUID- ORCID: 0000-0002-1866-971X
+AD  - Institut de Cancérologie Strasbourg Europe (ICANS) and University of Strasbourg, 
+      Strasbourg, France.
+FAU - Lazarovici, Julien
+AU  - Lazarovici J
+AD  - Gustave Roussy, Villejuif, France.
+FAU - Aurer, Igor
+AU  - Aurer I
+AD  - University Hospital Centre Zagreb, Zagreb, Croatia.
+FAU - Casasnovas, René-Olivier
+AU  - Casasnovas RO
+AUID- ORCID: 0000-0002-1156-8983
+AD  - University Hospital F Mitterrand, Dijon, France.
+FAU - Gac, Anne-Claire
+AU  - Gac AC
+AD  - Institut d'hématologie de Basse-Normandie, Caen, France.
+FAU - Bonnet, Christophe
+AU  - Bonnet C
+AD  - CHU Liège, Liège, Belgium.
+FAU - Bouabdallah, Krimo
+AU  - Bouabdallah K
+AD  - University Hospital of Bordeaux, Bordeaux, France.
+FAU - Feugier, Pierre
+AU  - Feugier P
+AD  - University Hospital of Nancy and University of Lorraine, Vandoeuvre les Nancy, 
+      France.
+FAU - Specht, Lena
+AU  - Specht L
+AUID- ORCID: 0000-0002-6902-2190
+AD  - Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+FAU - Molina, Lysiane
+AU  - Molina L
+AD  - University Hospital Grenoble Alpes, Grenoble, France.
+FAU - Touati, Mohamed
+AU  - Touati M
+AD  - CHU Limoges, Limoges, France.
+FAU - Borel, Cécile
+AU  - Borel C
+AUID- ORCID: 0000-0002-0270-9772
+AD  - IUCT-Oncopole, CHU Toulouse, Toulouse, France.
+FAU - Stamatoullas, Aspasia
+AU  - Stamatoullas A
+AUID- ORCID: 0000-0001-7321-5254
+AD  - Centre H Becquerel, Rouen, France.
+FAU - Nicolas-Virelizier, Emmanuelle
+AU  - Nicolas-Virelizier E
+AD  - Centre L Bérard, Lyon, France.
+FAU - Pascal, Laurent
+AU  - Pascal L
+AD  - Hôpital Saint Vincent de Paul, Lille, France.
+FAU - Lugtenburg, Pieternella
+AU  - Lugtenburg P
+AUID- ORCID: 0000-0002-6735-8651
+AD  - Erasmus MC Cancer Institute, University Medical Center Rotterdam, Rotterdam, the 
+      Netherlands.
+FAU - Di Renzo, Nicola
+AU  - Di Renzo N
+AD  - Presidio Ospedaliero Vito Fazzi, Lecce, Italy.
+FAU - Vander Borght, Thierry
+AU  - Vander Borght T
+AD  - CHU UCL Namur, Yvoir, Belgium.
+FAU - Traverse-Glehen, Alexandra
+AU  - Traverse-Glehen A
+AD  - Hospices Civils de Lyon and Université Lyon 1, Lyon, France.
+FAU - Dartigues, Peggy
+AU  - Dartigues P
+AD  - Gustave Roussy, Villejuif, France.
+FAU - Hutchings, Martin
+AU  - Hutchings M
+AUID- ORCID: 0000-0003-3873-1741
+AD  - Rigshospitalet, Copenhagen, Denmark.
+FAU - Versari, Annibale
+AU  - Versari A
+AUID- ORCID: 0000-0002-8675-2435
+AD  - Azienda USL-IRCCS di Reggio Emilia, Reggio Emilia, Italy.
+FAU - Meignan, Michel
+AU  - Meignan M
+AUID- ORCID: 0000-0001-5071-3330
+AD  - LYSA Imaging and University Paris Est Créteil, Créteil, France.
+FAU - Federico, Massimo
+AU  - Federico M
+AUID- ORCID: 0000-0002-9889-3796
+AD  - University of Modena and Reggio Emilia, Modena, Italy.
+FAU - André, Marc
+AU  - André M
+AD  - CHU UCL Namur, Yvoir, Belgium.
+CN  - LYSA-FIL-EORTC Intergroup
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02292979
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220722
+PL  - United States
+TA  - J Clin Oncol
+JT  - Journal of clinical oncology : official journal of the American Society of 
+      Clinical Oncology
+JID - 8309333
+RN  - 7XL5ISS668 (Brentuximab Vedotin)
+RN  - 11056-06-7 (Bleomycin)
+RN  - 5V9KLZ54CY (Vinblastine)
+RN  - 80168379AG (Doxorubicin)
+RN  - 7GR28W0FJI (Dacarbazine)
+SB  - IM
+MH  - Humans
+MH  - Adolescent
+MH  - Young Adult
+MH  - Adult
+MH  - Middle Aged
+MH  - *Hodgkin Disease/diagnostic imaging/drug therapy/pathology
+MH  - Brentuximab Vedotin
+MH  - Bleomycin
+MH  - Vinblastine
+MH  - Doxorubicin
+MH  - Antineoplastic Combined Chemotherapy Protocols/adverse effects
+MH  - Dacarbazine
+MH  - Neoplasm Staging
+MH  - Treatment Outcome
+EDAT- 2022/07/23 06:00
+MHDA- 2023/01/10 06:00
+CRDT- 2022/07/22 16:03
+PHST- 2022/07/23 06:00 [pubmed]
+PHST- 2023/01/10 06:00 [medline]
+PHST- 2022/07/22 16:03 [entrez]
+AID - 10.1200/JCO.21.01281 [doi]
+PST - ppublish
+SO  - J Clin Oncol. 2023 Jan 10;41(2):327-335. doi: 10.1200/JCO.21.01281. Epub 2022 Jul 
+      22.
+
+PMID- 36609807
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230201
+LR  - 20230202
+IS  - 1573-7373 (Electronic)
+IS  - 0167-594X (Print)
+IS  - 0167-594X (Linking)
+VI  - 161
+IP  - 1
+DP  - 2023 Jan
+TI  - Patterns, predictors and prognostic relevance of high-grade hematotoxicity after 
+      temozolomide or temozolomide-lomustine in the CeTeG/NOA-09 trial.
+PG  - 147-153
+LID - 10.1007/s11060-022-04203-4 [doi]
+AB  - PURPOSE: In the randomized phase III trial CeTeG/NOA-09, temozolomide 
+      (TMZ)/lomustine (CCNU) combination therapy was superior to TMZ in newly diagnosed 
+      MGMT methylated glioblastoma, albeit reporting more frequent hematotoxicity. 
+      Here, we analyze high grade hematotoxicity and its prognostic relevance in the 
+      trial population. METHODS: Descriptive and comparative analysis of hematotoxicity 
+      adverse events ≥ grade 3 (HAE) according to the Common Terminology of Clinical 
+      Adverse Events, version 4.0 was performed. The association of HAE with survival 
+      was assessed in a landmark analysis. Logistic regression analysis was performed 
+      to predict HAE during the concomitant phase of chemotherapy. RESULTS: HAE 
+      occurred in 36.4% and 28.6% of patients under CCNU/TMZ and TMZ treatment, 
+      respectively. The median onset of the first HAE was during concomitant 
+      chemotherapy (i.e. first CCNU/TMZ course or daily TMZ therapy), and 42.9% of 
+      patients with HAE receiving further courses experienced repeat HAE. Median HAE 
+      duration was similar between treatment arms (CCNU/TMZ 11.5; TMZ 13 days). 
+      Chemotherapy was more often discontinued due to HAE in CCNU/TMZ than in TMZ (19.7 
+      vs. 6.3%, p = 0.036). The occurrence of HAE was not associated with survival 
+      differences (p = 0.76). Regression analysis confirmed older age (OR 1.08) and 
+      female sex (OR 2.47), but not treatment arm, as predictors of HAE. CONCLUSION: 
+      Older age and female sex are associated with higher incidence of HAE. Although 
+      occurrence of HAE was not associated with shorter survival, reliable prediction 
+      of patients at risk might be beneficial to allow optimal management of therapy 
+      and allocation of supportive measures. TRIAL REGISTRATION: NCT01149109.
+CI  - © 2023. The Author(s).
+FAU - Weller, J
+AU  - Weller J
+AUID- ORCID: 0000-0001-5818-5392
+AD  - Division of Clinical Neurooncology, Department of Neurology and Center of 
+      Integrated Oncology (CIO), University Hospital Bonn, Venusberg-Campus 1, 53105, 
+      Bonn, Germany. johannes.weller@ukbonn.de.
+FAU - Schäfer, N
+AU  - Schäfer N
+AD  - Division of Clinical Neurooncology, Department of Neurology and Center of 
+      Integrated Oncology (CIO), University Hospital Bonn, Venusberg-Campus 1, 53105, 
+      Bonn, Germany.
+FAU - Schaub, C
+AU  - Schaub C
+AD  - Division of Clinical Neurooncology, Department of Neurology and Center of 
+      Integrated Oncology (CIO), University Hospital Bonn, Venusberg-Campus 1, 53105, 
+      Bonn, Germany.
+FAU - Tzaridis, T
+AU  - Tzaridis T
+AUID- ORCID: 0000-0001-9651-1144
+AD  - Division of Clinical Neurooncology, Department of Neurology and Center of 
+      Integrated Oncology (CIO), University Hospital Bonn, Venusberg-Campus 1, 53105, 
+      Bonn, Germany.
+FAU - Zeyen, T
+AU  - Zeyen T
+AD  - Division of Clinical Neurooncology, Department of Neurology and Center of 
+      Integrated Oncology (CIO), University Hospital Bonn, Venusberg-Campus 1, 53105, 
+      Bonn, Germany.
+FAU - Schneider, M
+AU  - Schneider M
+AUID- ORCID: 0000-0002-6025-7479
+AD  - Department of Neurosurgery, University Hospital Bonn, Venusberg-Campus 1, Bonn, 
+      Germany.
+FAU - Potthoff, A L
+AU  - Potthoff AL
+AUID- ORCID: 0000-0002-5710-6557
+AD  - Department of Neurosurgery, University Hospital Bonn, Venusberg-Campus 1, Bonn, 
+      Germany.
+FAU - Giordano, F A
+AU  - Giordano FA
+AD  - Department of Radiation Oncology, University Medical Center Mannheim, Medical 
+      Faculty Mannheim, Heidelberg University, Mannheim, Germany.
+FAU - Steinbach, J P
+AU  - Steinbach JP
+AD  - Dr. Senckenberg Institute of Neurooncology, University of Frankfurt, Frankfurt, 
+      Germany.
+FAU - Zeiner, P S
+AU  - Zeiner PS
+AD  - Dr. Senckenberg Institute of Neurooncology, University of Frankfurt, Frankfurt, 
+      Germany.
+FAU - Kowalski, T
+AU  - Kowalski T
+AD  - Department of Neurology, University Hospital Knappschaftskrankenhaus, 
+      Ruhr-Universität Bochum, Bochum, Germany.
+FAU - Sabel, M
+AU  - Sabel M
+AD  - Department of Neurosurgery, University of Düsseldorf, Düsseldorf, Germany.
+FAU - Hau, P
+AU  - Hau P
+AD  - Department of Neurology and Wilhelm Sander NeuroOncology Unit, University 
+      Hospital Regensburg, Regensburg, Germany.
+FAU - Krex, D
+AU  - Krex D
+AD  - Department of Neurosurgery, University of Dresden, Dresden, Germany.
+FAU - Grauer, O
+AU  - Grauer O
+AD  - Department of Neurology, University of Münster, Münster, Germany.
+FAU - Goldbrunner, R
+AU  - Goldbrunner R
+AD  - Department of General Neurosurgery, Center of Neurosurgery, University of 
+      Cologne, Cologne, Germany.
+FAU - Schnell, O
+AU  - Schnell O
+AD  - Department of Neurosurgery, University of Freiburg, Freiburg, Germany.
+FAU - Tabatabai, G
+AU  - Tabatabai G
+AUID- ORCID: 0000-0002-3542-8782
+AD  - Department of Neurology and Interdisciplinary Neurooncology, University Hospital 
+      Tübingen, Hertie Institute for Clinical Brain Research, Center for 
+      Neuro-Oncology, Comprehensive Cancer Center Tübingen-Stuttgart, German Cancer 
+      Consortium (DKTK), Partner site Tübingen, Eberhard Karls University, Tübingen, 
+      Germany.
+FAU - Ringel, F
+AU  - Ringel F
+AUID- ORCID: 0000-0003-3132-7543
+AD  - Department of Neurosurgery, University of Mainz, Mainz, Germany.
+FAU - Schmidt-Graf, F
+AU  - Schmidt-Graf F
+AD  - Department of Neurology, Technical University of Munich, Munich, Germany.
+FAU - Brehmer, S
+AU  - Brehmer S
+AD  - Department of Neurosurgery, University of Mannheim, Mannheim, Germany.
+FAU - Tonn, J C
+AU  - Tonn JC
+AD  - Department of Neurosurgery, Ludwig Maximillian University of Munich and German 
+      Cancer Consortium (DKTK), Partner Site Munich, Munich, Germany.
+FAU - Bullinger, L
+AU  - Bullinger L
+AD  - Department of Hematology, Oncology and Tumorimmunology, Charité University of 
+      Berlin, Berlin, Germany.
+FAU - Vajkoczy, P
+AU  - Vajkoczy P
+AD  - Department of Neurosurgery, Charité University of Berlin, Berlin, Germany.
+FAU - Glas, M
+AU  - Glas M
+AD  - Division of Clinical Neurooncology, Department of Neurology and West German 
+      Cancer Center (WTZ), German Cancer Consortium, Partner Site Essen, University 
+      Hospital Essen, Essen, Germany.
+FAU - Vatter, H
+AU  - Vatter H
+AD  - Department of Neurosurgery, University Hospital Bonn, Venusberg-Campus 1, Bonn, 
+      Germany.
+FAU - Herrlinger, U
+AU  - Herrlinger U
+AD  - Division of Clinical Neurooncology, Department of Neurology and Center of 
+      Integrated Oncology (CIO), University Hospital Bonn, Venusberg-Campus 1, 53105, 
+      Bonn, Germany.
+FAU - Seidel, C
+AU  - Seidel C
+AD  - Department of Radiation Oncology, University of Leipzig, Leipzig, Germany.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01149109
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230107
+PL  - United States
+TA  - J Neurooncol
+JT  - Journal of neuro-oncology
+JID - 8309335
+RN  - YF1K15M17Y (Temozolomide)
+RN  - 7BRF0Z81KG (Lomustine)
+RN  - 7GR28W0FJI (Dacarbazine)
+RN  - 0 (Antineoplastic Agents, Alkylating)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Temozolomide/therapeutic use
+MH  - Lomustine/therapeutic use
+MH  - Prognosis
+MH  - Dacarbazine/adverse effects
+MH  - *Brain Neoplasms/therapy
+MH  - *Glioblastoma/therapy
+MH  - Antineoplastic Agents, Alkylating/adverse effects
+PMC - PMC9886607
+OTO - NOTNLM
+OT  - Glioblastoma
+OT  - Hematotoxicity
+OT  - Lomustine
+OT  - MGMT
+OT  - Temozolomide
+COIS- UH has received lecture and/or advisory board honoraria from Medac, Novartis, 
+      Daichii-Sankyo, Noxxon, AbbVie, Bayer, Janssen, and Karyopharm. CS has received 
+      lecture or advisory board honoraria from AbbVie, Bristol-Myers Squibb, HRA 
+      Pharma, Medac, Roche, and Seagen. GT has received lecture, consultant or advisory 
+      board honoraria from AbbVie, Bayer, Boehringer Ingelheim, Medac, Novartis, 
+      Novocure) and research grants from Roche Diagnostics and Medac. JS has received 
+      lecture and/or advisory board honoraria or travel cost reimbursement from Abbvie, 
+      Medac, Med-Update, Roche, Novocure and Seagen. MGs reports personal fees from 
+      Roche, Novartis, Daichi Sankyo, Novocure, Bayer, frm Janssen-Cillag, Merck, Kyowa 
+      Kirin, Seagen, and grants from Novocure. FSG reports advisory board honoraria 
+      from Novocure. GT has served on advisory boards of AbbVie, Bayer, Boehringer 
+      Ingelheim, received consulting fees from AbbVie, Bayer; received speaker fees 
+      from Medac and Novocure. FR has received lecture and/or consulting honoraria from 
+      Stryker, Brainlab, Spineart, Icotec, royalties from Spineart and research support 
+      from Icotec. The other authors declare they have no financial interests.
+EDAT- 2023/01/08 06:00
+MHDA- 2023/02/02 06:00
+CRDT- 2023/01/07 16:54
+PHST- 2022/11/09 00:00 [received]
+PHST- 2022/11/29 00:00 [accepted]
+PHST- 2023/01/08 06:00 [pubmed]
+PHST- 2023/02/02 06:00 [medline]
+PHST- 2023/01/07 16:54 [entrez]
+AID - 10.1007/s11060-022-04203-4 [pii]
+AID - 4203 [pii]
+AID - 10.1007/s11060-022-04203-4 [doi]
+PST - ppublish
+SO  - J Neurooncol. 2023 Jan;161(1):147-153. doi: 10.1007/s11060-022-04203-4. Epub 2023 
+      Jan 7.
+
+PMID- 36508302
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230217
+LR  - 20230403
+IS  - 1527-7755 (Electronic)
+IS  - 0732-183X (Linking)
+VI  - 41
+IP  - 6
+DP  - 2023 Feb 20
+TI  - Nivolumab and Doxorubicin, Vinblastine, and Dacarbazine in Early-Stage 
+      Unfavorable Hodgkin Lymphoma: Final Analysis of the Randomized German Hodgkin 
+      Study Group Phase II NIVAHL Trial.
+PG  - 1193-1199
+LID - 10.1200/JCO.22.02355 [doi]
+AB  - Clinical trials frequently include multiple end points that mature at different 
+      times. The initial report, typically based on the primary end point, may be 
+      published when key planned co-primary or secondary analyses are not yet 
+      available. Clinical Trial Updates provide an opportunity to disseminate 
+      additional results from studies, published in JCO or elsewhere, for which the 
+      primary end point has already been reported.In the investigator-sponsored 
+      randomized phase II NIVAHL trial for early-stage unfavorable classical Hodgkin 
+      lymphoma (HL), two schedules of four cycles of nivolumab, doxorubicin, 
+      vinblastine, and dacarbazine followed by 30 Gy involved-site radiotherapy 
+      resulted in high complete remission rates and an unprecedented 1-year 
+      progression-free survival in 109 patients. In this article, we report the 
+      preplanned final analysis conducted three years after the registration of the 
+      last patient including long-term safety results. No survival events were observed 
+      since the primary analysis, and after a median follow-up (FU) of 41 months, the 
+      overall survival was 100% in both treatment groups. The progression-free survival 
+      was 98% and 100% in the sequential and concomitant nivolumab, doxorubicin, 
+      vinblastine, and dacarbazine treatment groups, respectively. At last FU, the mean 
+      forced expiratory pressure in one second was 95.5% (standard deviation 12.7%), 
+      the mean diffusion capacity for carbon monoxide adjusted for hemoglobin was 82.8% 
+      (standard deviation 15.4%), and the left ventricular ejection fraction was in the 
+      normal range in 95% of patients. Hypothyroidism requiring long-term medication 
+      occurred in 15% of patients, who were nearly exclusively female (87%). No second 
+      primary malignancies occurred, and no patient required corticosteroid treatment 
+      at last FU. Patient-reported normalized global quality-of-life score measured by 
+      European Organisation for Research and Treatment of Cancer Quality of Life 
+      Questionnaire C30 improved over time. This preplanned FU analysis of the largest 
+      anti-programmed death protein 1 HL first-line trial to date confirms the 
+      outstanding efficacy and relatively favorable safety profile of this therapeutic 
+      approach.
+FAU - Bröckelmann, Paul J
+AU  - Bröckelmann PJ
+AUID- ORCID: 0000-0001-9662-9900
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+FAU - Bühnen, Ina
+AU  - Bühnen I
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+FAU - Meissner, Julia
+AU  - Meissner J
+AD  - Medicine V, University of Heidelberg, Heidelberg, Germany.
+FAU - Trautmann-Grill, Karolin
+AU  - Trautmann-Grill K
+AUID- ORCID: 0000-0002-9050-1049
+AD  - University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden, 
+      Germany.
+FAU - Herhaus, Peter
+AU  - Herhaus P
+AD  - Technical University Munich, School of Medicine, Klinikum rechts der Isar, Clinic 
+      and Policlinic for Internal Medicine III, Munich, Germany.
+FAU - Halbsguth, Teresa V
+AU  - Halbsguth TV
+AD  - Division of Hematology/Oncology, Department of Medicine II, Goethe University 
+      Hospital Frankfurt, Frankfurt, Germany.
+FAU - Schaub, Valdete
+AU  - Schaub V
+AD  - University Hospital Tübingen, Tübingen, Germany.
+FAU - Kerkhoff, Andrea
+AU  - Kerkhoff A
+AUID- ORCID: 0000-0001-6904-2821
+AD  - Medizinische Klinik A, University Hospital Muenster, Muenster, Germany.
+FAU - Mathas, Stephan
+AU  - Mathas S
+AUID- ORCID: 0000-0001-9626-1413
+AD  - Division of Hematology, Oncology, and Tumor Immunology, 
+      Charité-Universitätsmedizin Berlin and Max-Delbrück-Center for Molecular 
+      Medicine, Berlin, Germany.
+FAU - Bormann, Matthias
+AU  - Bormann M
+AD  - Medical Department I, Klinikum Bremen-Mitte, Bremen, Germany.
+FAU - Dickhut, Andreas
+AU  - Dickhut A
+AD  - Tumorklinik, Klinikum Fulda, Fulda, Germany.
+FAU - Kaul, Helen
+AU  - Kaul H
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+FAU - Fuchs, Michael
+AU  - Fuchs M
+AUID- ORCID: 0000-0003-3289-3272
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+FAU - Kobe, Carsten
+AU  - Kobe C
+AUID- ORCID: 0000-0002-2909-0826
+AD  - Department of Nuclear Medicine and GHSG, University Hospital of Cologne, Cologne, 
+      Germany.
+FAU - Baues, Christian
+AU  - Baues C
+AUID- ORCID: 0000-0003-1733-6064
+AD  - Department of Radiation Oncology and GHSG, University Hospital of Cologne, 
+      Cologne, Germany.
+FAU - Borchmann, Peter
+AU  - Borchmann P
+AUID- ORCID: 0000-0003-3782-2158
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+FAU - Engert, Andreas
+AU  - Engert A
+AUID- ORCID: 0000-0002-1890-1523
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+FAU - von Tresckow, Bastian
+AU  - von Tresckow B
+AUID- ORCID: 0000-0003-1410-4487
+AD  - University of Cologne, Faculty of Medicine and University Hospital of Cologne, 
+      Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn 
+      Cologne Düsseldorf (CIO ABCD) and German Hodgkin Study Group (GHSG), Cologne, 
+      Germany.
+AD  - Department of Hematology and Stem Cell Transplantation, West German Cancer Center 
+      and German Cancer Consortium (DKTK partner site Essen), University Hospital 
+      Essen, University of Duisburg-Essen, Essen, Germany.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03004833
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221212
+PL  - United States
+TA  - J Clin Oncol
+JT  - Journal of clinical oncology : official journal of the American Society of 
+      Clinical Oncology
+JID - 8309333
+RN  - 5V9KLZ54CY (Vinblastine)
+RN  - 7GR28W0FJI (Dacarbazine)
+RN  - 31YO63LBSN (Nivolumab)
+RN  - 80168379AG (Doxorubicin)
+RN  - 11056-06-7 (Bleomycin)
+RN  - VB0R961HZT (Prednisone)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - *Hodgkin Disease/pathology
+MH  - Vinblastine/adverse effects
+MH  - Dacarbazine/adverse effects
+MH  - Nivolumab/adverse effects
+MH  - Quality of Life
+MH  - Stroke Volume
+MH  - Antineoplastic Combined Chemotherapy Protocols/adverse effects
+MH  - Ventricular Function, Left
+MH  - Doxorubicin/adverse effects
+MH  - Bleomycin/therapeutic use
+MH  - Neoplasm Staging
+MH  - Prednisone/therapeutic use
+EDAT- 2022/12/13 06:00
+MHDA- 2023/02/18 06:00
+CRDT- 2022/12/12 12:43
+PHST- 2022/12/13 06:00 [pubmed]
+PHST- 2023/02/18 06:00 [medline]
+PHST- 2022/12/12 12:43 [entrez]
+AID - 10.1200/JCO.22.02355 [doi]
+PST - ppublish
+SO  - J Clin Oncol. 2023 Feb 20;41(6):1193-1199. doi: 10.1200/JCO.22.02355. Epub 2022 
+      Dec 12.
+
+PMID- 36622702
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230315
+LR  - 20230507
+IS  - 1557-3265 (Electronic)
+IS  - 1078-0432 (Linking)
+VI  - 29
+IP  - 6
+DP  - 2023 Mar 14
+TI  - Longer versus Shorter Schedules of Vincristine, Irinotecan, and Temozolomide 
+      (VIT) for Relapsed or Refractory Ewing Sarcoma: A Randomized Controlled Phase 2 
+      Trial.
+PG  - 1040-1046
+LID - 10.1158/1078-0432.CCR-22-3546 [doi]
+AB  - PURPOSE: The optimal dose schedule of vincristine, irinotecan, and temozolomide 
+      (VIT) in relapsed or refractory patients with Ewing sarcoma requires 
+      clarification. PATIENTS AND METHODS: Patients with relapsed or refractory Ewing 
+      sarcoma were randomly assigned (1:1) to either a shorter d × 5 schedule 
+      (irinotecan 50 mg/m2/d D1-5, vincristine 1.4 mg/m2 D1) or protracted d × 5×2 
+      schedule (irinotecan 20 mg/m2/d D1-5,8-12, vincristine 1.4 mg/m2 D1,8) together 
+      with temozolomide (100 mg/m2/d D1-5). Patients were treated every 3 weeks for up 
+      to eight cycles until progression or unacceptable toxic effects occurred. The 
+      primary endpoint was objective response rate at 12 weeks (ORR12w). Secondary 
+      endpoints were progression-free survival (PFS), overall survival (OS), and 
+      safety. RESULT: A total of 46 patients presenting with relapsed or refractory 
+      Ewing sarcoma were randomly assigned to the d × 5 (n = 24) or d × 5×2 (n = 22) 
+      schedules. Median follow-up was 10.7 months in the d × 5 group and 8.3 months in 
+      the d × 5×2 group. ORR12w was lower for d × 5 (5/24; 20.8%) patients than for d × 
+      5×2 (12/22; 54.5%; P = 0.019), but no significant difference was found in PFS 
+      (median PFS, 2.3 months for d × 5 vs. 4.3 months for d × 5×2) or OS (median OS, 
+      14.8 months for d × 5 and 12.8 months for d × 5×2). Patients receiving the d × 5 
+      schedule reported more grade 3 and 4 adverse events (AE) than those receiving d × 
+      5×2, including diarrhea/abdominal pain and vomiting/nausea. CONCLUSIONS: The 
+      protracted d × 5×2 VIT schedule showed superior efficacy and favorable 
+      tolerability compared with the shorter d × 5 VIT schedule in patients with 
+      relapsed or refractory Ewing sarcoma.
+CI  - ©2023 American Association for Cancer Research.
+FAU - Xu, Jie
+AU  - Xu J
+AUID- ORCID: 0000-0003-1957-8438
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+AD  - Peking University Shougang Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Xie, Lu
+AU  - Xie L
+AUID- ORCID: 0000-0001-7241-1915
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+AD  - Peking University Shougang Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Sun, Xin
+AU  - Sun X
+AUID- ORCID: 0000-0002-6453-850X
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Liu, Kuisheng
+AU  - Liu K
+AUID- ORCID: 0000-0002-0870-4390
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Liang, Xin
+AU  - Liang X
+AUID- ORCID: 0000-0002-3228-0890
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Cai, Zhenyu
+AU  - Cai Z
+AUID- ORCID: 0000-0003-3546-4430
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Tang, Xiaodong
+AU  - Tang X
+AUID- ORCID: 0000-0002-9097-3249
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+FAU - Guo, Wei
+AU  - Guo W
+AUID- ORCID: 0000-0003-2471-5767
+AD  - Peking University People's Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+AD  - Peking University Shougang Hospital, Musculoskeletal Tumor Center, Beijing, P.R. 
+      China.
+LA  - eng
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Clin Cancer Res
+JT  - Clinical cancer research : an official journal of the American Association for 
+      Cancer Research
+JID - 9502500
+RN  - 7673326042 (Irinotecan)
+RN  - YF1K15M17Y (Temozolomide)
+RN  - 5J49Q6B70F (Vincristine)
+RN  - XT3Z54Z28A (Camptothecin)
+RN  - 7GR28W0FJI (Dacarbazine)
+SB  - IM
+MH  - Humans
+MH  - Irinotecan/therapeutic use
+MH  - Temozolomide/therapeutic use
+MH  - *Sarcoma, Ewing/drug therapy
+MH  - Vincristine/adverse effects
+MH  - Camptothecin/adverse effects
+MH  - Dacarbazine/adverse effects
+MH  - Antineoplastic Combined Chemotherapy Protocols/adverse effects
+MH  - Neoplasm Recurrence, Local/drug therapy
+EDAT- 2023/01/10 06:00
+MHDA- 2023/03/16 06:00
+CRDT- 2023/01/09 11:43
+PHST- 2022/11/18 00:00 [received]
+PHST- 2022/12/19 00:00 [revised]
+PHST- 2023/01/05 00:00 [accepted]
+PHST- 2023/01/10 06:00 [pubmed]
+PHST- 2023/03/16 06:00 [medline]
+PHST- 2023/01/09 11:43 [entrez]
+AID - 712821 [pii]
+AID - 10.1158/1078-0432.CCR-22-3546 [doi]
+PST - ppublish
+SO  - Clin Cancer Res. 2023 Mar 14;29(6):1040-1046. doi: 10.1158/1078-0432.CCR-22-3546.
+
+PMID- 36705923
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230203
+LR  - 20230222
+IS  - 2574-3805 (Electronic)
+IS  - 2574-3805 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2023 Jan 3
+TI  - Adjuvant Temozolomide Chemotherapy With or Without Interferon Alfa Among Patients 
+      With Newly Diagnosed High-grade Gliomas: A Randomized Clinical Trial.
+PG  - e2253285
+LID - 10.1001/jamanetworkopen.2022.53285 [doi]
+AB  - IMPORTANCE: High-grade gliomas (HGGs) constitute the most common and aggressive 
+      primary brain tumor, with 5-year survival rates of 30.9% for grade 3 gliomas and 
+      6.6% for grade 4 gliomas. The add-on efficacy of interferon alfa is unclear for 
+      the treatment of HGG. OBJECTIVES: To compare the therapeutic efficacy and toxic 
+      effects of the combination of temozolomide and interferon alfa and temozolomide 
+      alone in patients with newly diagnosed HGG. DESIGN, SETTING, AND PARTICIPANTS: 
+      This multicenter, randomized, phase 3 clinical trial enrolled 199 patients with 
+      newly diagnosed HGG from May 1, 2012, to March 30, 2016, at 15 Chinese medical 
+      centers. Follow-up was completed July 31, 2021, and data were analyzed from 
+      September 13 to November 24, 2021. Eligible patients were aged 18 to 75 years 
+      with newly diagnosed and histologically confirmed HGG and had received no prior 
+      chemotherapy, radiotherapy, or immunotherapy for their HGG. INTERVENTIONS: All 
+      patients received standard radiotherapy concurrent with temozolomide. After a 
+      4-week break, patients in the temozolomide with interferon alfa group received 
+      standard temozolomide combined with interferon alfa every 28 days. Patients in 
+      the temozolomide group received standard temozolomide. MAIN OUTCOMES AND 
+      MEASURES: The primary end point was 2-year overall survival (OS). Secondary end 
+      points were 2-year progression-free survival (PFS) and treatment tolerability. 
+      RESULTS: A total of 199 patients with HGG were enrolled, with a median follow-up 
+      time of 66.0 (95% CI, 59.1-72.9) months. Seventy-nine patients (39.7%) were women 
+      and 120 (60.3%) were men, with ages ranging from 18 to 75 years and a median age 
+      of 46.9 (95% CI, 45.3-48.7) years. The median OS of patients in the temozolomide 
+      plus interferon alfa group (26.7 [95% CI, 21.6-31.7] months) was significantly 
+      longer than that in the standard group (18.8 [95% CI, 16.9-20.7] months; hazard 
+      ratio [HR], 0.64 [95% CI, 0.47-0.88]; P = .005). Temozolomide plus interferon 
+      alfa also significantly improved median OS in patients with O6-methylguanine-DNA 
+      methyltransferase (MGMT) unmethylation (24.7 [95% CI, 20.5-28.8] months) compared 
+      with temozolomide (17.4 [95% CI, 14.1-20.7] months; HR, 0.57 [95% CI, 0.37-0.87]; 
+      P = .008). Seizure and influenzalike symptoms were more common in the 
+      temozolomide plus interferon alfa group, with 2 of 100 (2.0%) and 5 of 100 (5.0%) 
+      patients with grades 1 and 2 toxic effects, respectively (P = .02). Finally, 
+      results suggested that methylation level at the IFNAR1/2 promoter was a marker of 
+      sensitivity to temozolomide plus interferon alfa. CONCLUSIONS AND RELEVANCE: 
+      Compared with the standard regimen, temozolomide plus interferon alfa treatment 
+      could prolong the survival time of patients with HGG, especially the MGMT 
+      promoter unmethylation variant, and the toxic effects remained tolerable. TRIAL 
+      REGISTRATION: ClinicalTrials.gov Identifier: NCT01765088.
+FAU - Guo, Chengcheng
+AU  - Guo C
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Yang, Qunying
+AU  - Yang Q
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Xu, Pengfei
+AU  - Xu P
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Deng, Meiling
+AU  - Deng M
+AD  - Department of Radiation, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Jiang, Taipeng
+AU  - Jiang T
+AD  - Department of Neurosurgery, The First Affiliated Hospital of Shenzhen University, 
+      Shenzhen Second People's Hospital, Shenzhen, China.
+FAU - Cai, Linbo
+AU  - Cai L
+AD  - Department of Neuro-oncology, Guangdong Sanjiu Brain Hospital, Guangzhou, China.
+FAU - Li, Jibin
+AU  - Li J
+AD  - Department of Clinical Research, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Sai, Ke
+AU  - Sai K
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Xi, Shaoyan
+AU  - Xi S
+AD  - Department of Pathology, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Ouyang, Hui
+AU  - Ouyang H
+AD  - Department of Neurosurgery, Guangdong Sanjiu Brain Hospital, Guangzhou, China.
+FAU - Liu, Mingfa
+AU  - Liu M
+AD  - Department of Neurosurgery, Shantou Central Hospital, Shantou, China.
+FAU - Li, Xianming
+AU  - Li X
+AD  - Department of Radiation Oncology, Shenzhen People's Hospital, The Second Clinical 
+      Medical College, Jinan University, Shenzhen, Guangdong, China.
+AD  - The First Affiliated Hospital, Southern University of Science and Technology, 
+      Shenzhen, Guangdong, China.
+FAU - Li, Zihuang
+AU  - Li Z
+AD  - Department of Radiation Oncology, Shenzhen People's Hospital, The Second Clinical 
+      Medical College, Jinan University, Shenzhen, Guangdong, China.
+AD  - The First Affiliated Hospital, Southern University of Science and Technology, 
+      Shenzhen, Guangdong, China.
+FAU - Ni, Xiangrong
+AU  - Ni X
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Cao, Xi
+AU  - Cao X
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Li, Cong
+AU  - Li C
+AD  - Department of Neurosurgery, The Second Affiliated Hospital of Guangzhou 
+      University of Chinese Medicine, Guangzhou, China.
+AD  - Guangdong Province Hospital of Chinese Medical, Guangzhou, China.
+FAU - Wu, Shaoxiong
+AU  - Wu S
+AD  - Department of Radiation, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Du, Xiaojing
+AU  - Du X
+AD  - Department of Radiation, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Su, Jun
+AU  - Su J
+AD  - Department of Neurosurgery, Tumor Hospital of Harbin Medical University, Harbin, 
+      China.
+FAU - Xue, Xiaoying
+AU  - Xue X
+AD  - Department of Radiotherapy, The Second Hospital of Hebei Medical University, 
+      Shijiazhuang, China.
+FAU - Wang, Yiming
+AU  - Wang Y
+AD  - Department of Medical Oncology, The First Affiliated Hospital, Jinan University, 
+      Guangzhou, China.
+FAU - Li, Gang
+AU  - Li G
+AD  - Department of Neurosurgery, Tangdu Hospital, Fourth Military Medical University, 
+      Xi'an, China.
+FAU - Qin, Zhiyong
+AU  - Qin Z
+AD  - Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, Fudan 
+      University, Shanghai, China.
+AD  - Neurosurgical Institute of Fudan University and Shanghai Clinical Medical Center 
+      of Neurosurgery, Shanghai, China.
+AD  - Shanghai Key Laboratory of Brain Function and Restoration and Neural 
+      Regeneration, Shanghai, China.
+FAU - Yang, Hui
+AU  - Yang H
+AD  - Department of Neurosurgery, Xinqiao Hospital, Third Military Medical University, 
+      Chongqing, China.
+FAU - Zhou, Tao
+AU  - Zhou T
+AD  - Department of Oncology, Guangdong Armed Police Corps Hospital, Guangzhou, China.
+FAU - Liu, Jinquan
+AU  - Liu J
+AD  - Department of Radiation Oncology, Affiliated Cancer Hospital and Institute of 
+      Guangzhou Medical University, Guangzhou, China.
+FAU - Hu, Xuefeng
+AU  - Hu X
+AD  - Department of Radiation Oncology, First People's Hospital of Fo Shan Affiliated 
+      with Sun Yat-Sen University, Foshan, China.
+FAU - Wang, Jian
+AU  - Wang J
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Jiang, Xiaobing
+AU  - Jiang X
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Lin, Fuhua
+AU  - Lin F
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Zhang, Xiangheng
+AU  - Zhang X
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Ke, Chao
+AU  - Ke C
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Lv, Xiaofei
+AU  - Lv X
+AD  - Department of Medical Imaging, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Lv, Yanchun
+AU  - Lv Y
+AD  - Department of Medical Imaging, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Hu, Wanming
+AU  - Hu W
+AD  - Department of Pathology, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Zeng, Jing
+AU  - Zeng J
+AD  - Department of Pathology, Sun Yat-Sen University Cancer Center, State Key 
+      Laboratory of Oncology in South China, Collaborative Innovation Center of Cancer 
+      Medicine, Guangzhou, China.
+FAU - Chen, Zhenghe
+AU  - Chen Z
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Zhong, Sheng
+AU  - Zhong S
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Wang, Hairong
+AU  - Wang H
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Chen, Yinsheng
+AU  - Chen Y
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Zhang, Ji
+AU  - Zhang J
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Li, Depei
+AU  - Li D
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Mou, Yonggao
+AU  - Mou Y
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+FAU - Chen, Zhongping
+AU  - Chen Z
+AD  - Department of Neurosurgery and Neuro-oncology, Sun Yat-Sen University Cancer 
+      Center, State Key Laboratory of Oncology in South China, Collaborative Innovation 
+      Center of Cancer Medicine, Guangzhou, China.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01765088
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230103
+PL  - United States
+TA  - JAMA Netw Open
+JT  - JAMA network open
+JID - 101729235
+RN  - 0 (Antineoplastic Agents, Alkylating)
+RN  - 7GR28W0FJI (Dacarbazine)
+RN  - 0 (Interferon-alpha)
+RN  - YF1K15M17Y (Temozolomide)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Antineoplastic Agents, Alkylating/therapeutic use/adverse effects
+MH  - *Brain Neoplasms/drug therapy/pathology
+MH  - Dacarbazine/therapeutic use
+MH  - *Glioma/drug therapy
+MH  - Interferon-alpha/therapeutic use
+MH  - Temozolomide/therapeutic use
+MH  - Adolescent
+MH  - Young Adult
+MH  - Adult
+MH  - Aged
+EDAT- 2023/01/28 06:00
+MHDA- 2023/02/01 06:00
+CRDT- 2023/01/27 11:34
+PHST- 2023/01/27 11:34 [entrez]
+PHST- 2023/01/28 06:00 [pubmed]
+PHST- 2023/02/01 06:00 [medline]
+AID - 2800859 [pii]
+AID - 10.1001/jamanetworkopen.2022.53285 [doi]
+PST - epublish
+SO  - JAMA Netw Open. 2023 Jan 3;6(1):e2253285. doi: 
+      10.1001/jamanetworkopen.2022.53285.
+
+PMID- 36376167
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230117
+LR  - 20230215
+IS  - 1433-2981 (Electronic)
+IS  - 0936-6555 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2023 Feb
+TI  - Preoperative Chemoradiotherapy With Capecitabine With or Without Temozolomide in 
+      Patients With Locally Advanced Rectal Cancer: A Prospective, Randomised Phase II 
+      Study Stratified by O(6)-Methylguanine DNA Methyltransferase Status: 
+      KCSG-CO17-02.
+PG  - e143-e152
+LID - S0936-6555(22)00503-9 [pii]
+LID - 10.1016/j.clon.2022.10.016 [doi]
+AB  - AIMS: To evaluate the clinical efficacy of adding temozolomide (TMZ) to 
+      preoperative capecitabine (CAP)-based chemoradiotherapy in patients with locally 
+      advanced rectal cancer (LARC) and validate O(6)-methylguanine DNA 
+      methyltransferase (MGMT) methylation status as a predictive marker for TMZ 
+      combined regimens. MATERIALS AND METHODS: LARC patients with clinical stage II 
+      (cT3-4N0) or III (cT(any)N+) disease were enrolled. They were stratified into 
+      unmethylated MGMT (uMGMT) and methylated MGMT (mMGMT) groups by 
+      methylation-specific polymerase chain reaction before randomisation and were then 
+      randomly assigned (1:1) to one of four treatment arms: uMGMT/CAP (arm A), 
+      uMGMT/TMZ + CAP (arm B), mMGMT/CAP (arm C) and mMGMT/TMZ + CAP (arm D). The 
+      primary end point was the pathological complete response (pCR) rate. RESULTS: 
+      Between November 2017 and July 2020, 64 patients were randomised. Slow accrual 
+      caused early study termination. After excluding four ineligible patients, 60 were 
+      included in the full analysis set. The pCR rate was 15.0% (9/60), 0%, 14.3%, 
+      18.8% and 26.7% for the entire cohort, arms A, B, C and D, respectively (P = 
+      0.0498 between arms A and D). The pCR rate was 9.7% in the CAP group (arms A + 
+      C), 20.7% in the TMZ + CAP group (arms B + D), 6.9% in the uMGMT group (arms A + 
+      B) and 22.6% in the mMGMT group (arms C + D). Grade 1-2 nausea or vomiting was 
+      significantly more frequent in the TMZ + CAP treatment groups (arms B + D) than 
+      in the CAP treatment groups (arms A + C, P < 0.001) with no difference in grade 3 
+      adverse events. There were no grade 4 or 5 adverse events. CONCLUSION: The 
+      addition of TMZ to CAP-based chemoradiotherapy tended to improve pCR rates, 
+      particularly in those with mMGMT LARC. MGMT status may warrant further 
+      investigation as a predictive biomarker for chemotherapeutic agents and 
+      radiotherapy.
+CI  - Copyright © 2022 The Royal College of Radiologists. Published by Elsevier Ltd. 
+      All rights reserved.
+FAU - Oh, C R
+AU  - Oh CR
+AD  - Department of Oncology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea; Department of Internal Medicine, Chung-Ang 
+      University Hospital, Chung-Ang University College of Medicine, Seoul, Republic of 
+      Korea.
+FAU - Kim, J E
+AU  - Kim JE
+AD  - Department of Oncology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea.
+FAU - Lee, J S
+AU  - Lee JS
+AD  - Clinical Research Center, Asan Institute for Life Sciences, Asan Medical Center, 
+      University of Ulsan College of Medicine, Seoul, Republic of Korea.
+FAU - Kim, S Y
+AU  - Kim SY
+AD  - Department of Oncology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea.
+FAU - Kim, T W
+AU  - Kim TW
+AD  - Department of Oncology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea.
+FAU - Choi, J
+AU  - Choi J
+AD  - Department of Pathology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea.
+FAU - Kim, J
+AU  - Kim J
+AD  - Department of Pathology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea.
+FAU - Park, I J
+AU  - Park IJ
+AD  - Department of Colon and Rectal Surgery, Asan Medical Center, University of Ulsan 
+      College of Medicine, Seoul, Republic of Korea.
+FAU - Lim, S-B
+AU  - Lim SB
+AD  - Department of Colon and Rectal Surgery, Asan Medical Center, University of Ulsan 
+      College of Medicine, Seoul, Republic of Korea.
+FAU - Park, J-H
+AU  - Park JH
+AD  - Department of Radiation Oncology, Asan Medical Center, University of Ulsan 
+      College of Medicine, Seoul, Republic of Korea.
+FAU - Kim, J H
+AU  - Kim JH
+AD  - Department of Radiation Oncology, Asan Medical Center, University of Ulsan 
+      College of Medicine, Seoul, Republic of Korea.
+FAU - Choi, M K
+AU  - Choi MK
+AD  - Center for Colorectal Cancer, Research Institute and Hospital, National Cancer 
+      Center, Goyang, Republic of Korea.
+FAU - Cha, Y
+AU  - Cha Y
+AD  - Center for Colorectal Cancer, Research Institute and Hospital, National Cancer 
+      Center, Goyang, Republic of Korea.
+FAU - Baek, J Y
+AU  - Baek JY
+AD  - Center for Colorectal Cancer, Research Institute and Hospital, National Cancer 
+      Center, Goyang, Republic of Korea.
+FAU - Beom, S-H
+AU  - Beom SH
+AD  - Division of Medical Oncology, Department of Internal Medicine, Yonsei Cancer 
+      Center, Yonsei University College of Medicine, Seoul, Republic of Korea.
+FAU - Hong, Y S
+AU  - Hong YS
+AD  - Department of Oncology, Asan Medical Center, University of Ulsan College of 
+      Medicine, Seoul, Republic of Korea. Electronic address: yshong@amc.seoul.kr.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03156036
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221112
+PL  - England
+TA  - Clin Oncol (R Coll Radiol)
+JT  - Clinical oncology (Royal College of Radiologists (Great Britain))
+JID - 9002902
+RN  - YF1K15M17Y (Temozolomide)
+RN  - 6804DJ8Z9U (Capecitabine)
+RN  - 7GR28W0FJI (Dacarbazine)
+RN  - 9B710FV2AE (O-(6)-methylguanine)
+RN  - EC 6.5.1.- (DNA Repair Enzymes)
+RN  - 9007-49-2 (DNA)
+RN  - 0 (Antineoplastic Agents, Alkylating)
+SB  - IM
+MH  - Humans
+MH  - Temozolomide/therapeutic use
+MH  - Capecitabine
+MH  - Dacarbazine/adverse effects
+MH  - Prospective Studies
+MH  - *Glioblastoma/drug therapy/genetics/pathology
+MH  - Chemoradiotherapy
+MH  - DNA Repair Enzymes/genetics
+MH  - *Rectal Neoplasms/drug therapy/genetics
+MH  - DNA/therapeutic use
+MH  - DNA Methylation
+MH  - *Brain Neoplasms/therapy
+MH  - Antineoplastic Agents, Alkylating/therapeutic use
+OTO - NOTNLM
+OT  - MGMT
+OT  - neoadjuvant chemoradiotherapy
+OT  - rectal cancer
+OT  - temozolomide
+EDAT- 2022/11/15 06:00
+MHDA- 2023/01/18 06:00
+CRDT- 2022/11/14 22:06
+PHST- 2022/06/17 00:00 [received]
+PHST- 2022/09/03 00:00 [revised]
+PHST- 2022/10/20 00:00 [accepted]
+PHST- 2022/11/15 06:00 [pubmed]
+PHST- 2023/01/18 06:00 [medline]
+PHST- 2022/11/14 22:06 [entrez]
+AID - S0936-6555(22)00503-9 [pii]
+AID - 10.1016/j.clon.2022.10.016 [doi]
+PST - ppublish
+SO  - Clin Oncol (R Coll Radiol). 2023 Feb;35(2):e143-e152. doi: 
+      10.1016/j.clon.2022.10.016. Epub 2022 Nov 12.
+
+PMID- 36314174
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230321
+LR  - 20230321
+IS  - 1878-7401 (Electronic)
+IS  - 0928-7329 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2023
+TI  - Granulocyte-macrophage colony stimulating factor enhances efficacy of nimustine 
+      rendezvousing with temozolomide plus irradiation in patients with glioblastoma.
+PG  - 635-645
+LID - 10.3233/THC-220194 [doi]
+AB  - BACKGROUND: Glioblastoma is the most common and most aggressive type of primary 
+      brain tumor. OBJECTIVE: The aim of this study was to investigate the efficacy and 
+      safety of intranasal granulocyte-macrophage colony stimulating factor (GM-CSF) 
+      administration combined with chemoradiotherapy in patients with glioblastoma who 
+      underwent surgery. METHODS: Ninety-two patients were randomly divided into two 
+      groups: a control group (n= 46), who received radiotherapy with adjuvant local 
+      delivery of nimustine hydrochloride (ACNU) and systemic administration of 
+      temozolomide, and an intervention group (n= 46), who received intranasal GM-CSF 
+      prior to each cycle of adjuvant chemotherapy in addition to the treatment of the 
+      control group. Karnofsky performance status (KPS) scores, progression-free 
+      survival (PFS), overall survival (OS), and adverse effects were calculated and 
+      compared between the two groups. RESULTS: Compared with the control group, the 
+      intervention group had longer PFS (7.8 vs. 6.9 months, P= 0.016) and OS (19.2 vs. 
+      17.1 months, P= 0.045, without adjustment for interim analyses). The KPS scores 
+      were also higher in the intervention group than in the control group after 6 
+      months (84.35 ± 8.86 vs. 80.65 ± 7.72; t= 4.552, P= 0.036). Furthermore, the 
+      patients in the intervention group had lower incidence of neutropenia and 
+      thrombocytopenia (8.7% vs. 29.5%, P= 0.012; 8.7% vs. 18.2%, P= 0.186). Other 
+      adverse events were similar in both groups, and most adverse events were grade 
+      I/II and resolved spontaneously. CONCLUSION: Intranasal GM-CSF enhances the 
+      efficacy of the local ACNU administration combined with oral temozolomide 
+      chemotherapy. The survival and performance status were significantly improved in 
+      patients with glioblastoma after surgery. Additionally, the GM-CSF therapy was 
+      able to reduce the occurrence of chemotherapy-related neutropenia and 
+      thrombocytopenia.
+FAU - Yang, Dong-Yi
+AU  - Yang DY
+AD  - The First Affiliated Hospital of Henan University of Chinese Medicine, Zhengzhou, 
+      Henan, China.
+FAU - Cheng, Xue
+AU  - Cheng X
+AD  - Rehabilitation Medical College, Henan University of Traditional Chinese Medicine, 
+      Zhengzhou, Henan, China.
+FAU - Bu, Xing-Yao
+AU  - Bu XY
+AD  - The First Affiliated Hospital of Henan University of Chinese Medicine, Zhengzhou, 
+      Henan, China.
+FAU - Yan, Zhao-Yue
+AU  - Yan ZY
+AD  - The First Affiliated Hospital of Henan University of Chinese Medicine, Zhengzhou, 
+      Henan, China.
+FAU - Qu, Ming-Qi
+AU  - Qu MQ
+AD  - The First Affiliated Hospital of Henan University of Chinese Medicine, Zhengzhou, 
+      Henan, China.
+FAU - Zhao, Yue-Wu
+AU  - Zhao YW
+AD  - Department of Pathology, Zhengzhou University People's Hospital, Zhengzhou, 
+      Henan, China.
+FAU - Kong, Ling-Fei
+AU  - Kong LF
+AD  - Department of Pathology, Zhengzhou University People's Hospital, Zhengzhou, 
+      Henan, China.
+FAU - Wang, Yao-Wei
+AU  - Wang YW
+AD  - Department of Radiotherapy, Zhengzhou University People's Hospital, Zhengzhou, 
+      Henan, China.
+FAU - Luo, Jian-Chao
+AU  - Luo JC
+AD  - Department of Radiotherapy, Zhengzhou University People's Hospital, Zhengzhou, 
+      Henan, China.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - Netherlands
+TA  - Technol Health Care
+JT  - Technology and health care : official journal of the European Society for 
+      Engineering and Medicine
+JID - 9314590
+RN  - YF1K15M17Y (Temozolomide)
+RN  - 0S726V972K (Nimustine)
+RN  - 81627-83-0 (Macrophage Colony-Stimulating Factor)
+RN  - 83869-56-1 (Granulocyte-Macrophage Colony-Stimulating Factor)
+SB  - IM
+MH  - Humans
+MH  - Temozolomide/therapeutic use
+MH  - *Glioblastoma/drug therapy/radiotherapy
+MH  - Nimustine/therapeutic use
+MH  - Macrophage Colony-Stimulating Factor/therapeutic use
+MH  - Granulocyte-Macrophage Colony-Stimulating Factor/therapeutic use
+MH  - *Neutropenia/drug therapy
+MH  - *Thrombocytopenia/drug therapy
+MH  - Granulocytes
+MH  - *Brain Neoplasms/drug therapy/radiotherapy
+OTO - NOTNLM
+OT  - GM-CSF
+OT  - Glioblastoma
+OT  - intranasal
+OT  - rendezvous chemoradiotherapy
+OT  - survival
+EDAT- 2022/11/01 06:00
+MHDA- 2023/03/22 06:00
+CRDT- 2022/10/31 05:18
+PHST- 2022/11/01 06:00 [pubmed]
+PHST- 2023/03/22 06:00 [medline]
+PHST- 2022/10/31 05:18 [entrez]
+AID - THC220194 [pii]
+AID - 10.3233/THC-220194 [doi]
+PST - ppublish
+SO  - Technol Health Care. 2023;31(2):635-645. doi: 10.3233/THC-220194.
+
+PMID- 37043087
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230414
+LR  - 20230414
+IS  - 1433-7339 (Electronic)
+IS  - 0941-4355 (Linking)
+VI  - 31
+IP  - 5
+DP  - 2023 Apr 12
+TI  - Health-related quality of life in early-stage Hodgkin lymphoma: a longitudinal 
+      analysis of the ABVD arm in the randomized controlled trial HD.6.
+PG  - 256
+LID - 10.1007/s00520-023-07717-3 [doi]
+AB  - Early-stage Hodgkin lymphoma has become one of the most curable hematologic 
+      malignancies. Depending upon the disease location, possible toxicities, and 
+      patient preference, chemotherapy alone with ABVD remains an accepted treatment 
+      modality for this disease. There remains a paucity of data regarding the 
+      longitudinal trajectory of health-related quality of life (HRQoL) in patients 
+      treated for HL. The impact of disease and treatment on HRQoL is increasingly 
+      important to understand as the number of long-term survivors increases. We report 
+      the longitudinal HRQoL using data prospectively collected from diagnosis up to 10 
+      years post-treatment in the ABVD arm of the HD.6 randomized controlled trial for 
+      early-stage HL patients (N=169). We analyzed HRQoL using the EORTC QLQ-C30 
+      collected at baseline, 3 months, 6 months, and 12 months after completion of 
+      chemotherapy and yearly up to year 10. Clinically and statistically significant 
+      improvements were noted for specific domains including emotional (3 months 
+      post-treatment), social (12 months post-treatment) and financial functioning (2 
+      years post-treatment), and the specific symptom of fatigue (6 months 
+      post-treatment) during the follow-up period. To our knowledge, this is the first 
+      prospective, longitudinal analysis of HRQoL specifically among patients with 
+      early-stage HL treated with ABVD therapy alone. Although improvements were noted, 
+      sustained clinically and statistically significant improvements were noted only 
+      in select symptoms emphasizing the need to better understand and optimize HRQoL 
+      among this patient group.
+CI  - © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Mian, Hira
+AU  - Mian H
+AD  - Department of Oncology, McMaster University, 699 Concession St, Hamilton, ON, L8V 
+      5C2, Canada. hira.mian@medportal.ca.
+FAU - Ringash, Jolie
+AU  - Ringash J
+AD  - Cancer Clinical Research Unit (CCRU), Princess Margaret Cancer Centre/UHN, 
+      University of Toronto, Toronto, Canada.
+AD  - Department of Radiation Oncology, University of Toronto, Toronto, Canada.
+FAU - Meyer, Ralph
+AU  - Meyer R
+AD  - Department of Oncology, McMaster University, 699 Concession St, Hamilton, ON, L8V 
+      5C2, Canada.
+FAU - Hay, Annette E
+AU  - Hay AE
+AD  - Canadian Cancer Trials Group, Department of Medicine, Queen's University, 
+      Kingston, Canada.
+FAU - Shepherd, Lois
+AU  - Shepherd L
+AD  - Canadian Cancer Trials Group, Department of Pathology & Molecular Medicine, 
+      Queen's University, Kingston, Canada.
+FAU - Djurfeldt, Marina
+AU  - Djurfeldt M
+AD  - Canadian Cancer Trials Group, Queen's University, Kingston, Canada.
+FAU - Winter, Jane N
+AU  - Winter JN
+AD  - Northwestern University, Feinberg School of Medicine, Illinois, USA.
+FAU - Sussman, Jonathan
+AU  - Sussman J
+AD  - Department of Oncology, McMaster University, 699 Concession St, Hamilton, ON, L8V 
+      5C2, Canada.
+FAU - Pater, Joseph
+AU  - Pater J
+AD  - Canadian Cancer Trials Group, Queen's University, Kingston, Canada.
+FAU - Chen, Bingshu E
+AU  - Chen BE
+AD  - Canadian Cancer Trials Group, Department of Public Health Sciences and Department 
+      of Mathematics and Statistics, Queen's University, Kingston, Canada.
+FAU - Prica, Anca
+AU  - Prica A
+AD  - Department of Medical Oncology and Hematology, Princess Margaret Cancer Centre, 
+      University of Toronto, Toronto, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20230412
+PL  - Germany
+TA  - Support Care Cancer
+JT  - Supportive care in cancer : official journal of the Multinational Association of 
+      Supportive Care in Cancer
+JID - 9302957
+RN  - 11056-06-7 (Bleomycin)
+RN  - 80168379AG (Doxorubicin)
+RN  - 7GR28W0FJI (Dacarbazine)
+RN  - 5V9KLZ54CY (Vinblastine)
+SB  - IM
+MH  - Humans
+MH  - *Hodgkin Disease/pathology
+MH  - Antineoplastic Combined Chemotherapy Protocols/adverse effects
+MH  - Quality of Life
+MH  - Prospective Studies
+MH  - Bleomycin
+MH  - Doxorubicin/adverse effects
+MH  - Dacarbazine/therapeutic use
+MH  - Vinblastine/therapeutic use
+OTO - NOTNLM
+OT  - Hodgkins lymphoma
+OT  - Quality of life
+OT  - Symptoms
+EDAT- 2023/04/13 06:00
+MHDA- 2023/04/14 06:42
+CRDT- 2023/04/12 11:18
+PHST- 2022/07/14 00:00 [received]
+PHST- 2023/03/29 00:00 [accepted]
+PHST- 2023/04/14 06:42 [medline]
+PHST- 2023/04/12 11:18 [entrez]
+PHST- 2023/04/13 06:00 [pubmed]
+AID - 10.1007/s00520-023-07717-3 [pii]
+AID - 10.1007/s00520-023-07717-3 [doi]
+PST - epublish
+SO  - Support Care Cancer. 2023 Apr 12;31(5):256. doi: 10.1007/s00520-023-07717-3.
