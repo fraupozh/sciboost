@@ -1,3 +1,5 @@
+import pickle
+#from ner_model import load_ner_model
 from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 from Bio import Medline
 
@@ -14,9 +16,7 @@ def load_ner_model():
 class PubMedRecord:
 
     def __init__(self, record):
-        #record = {key.decode('utf-8'): [value.decode('utf-8') for value in values] for key, values in record.items()}
-        self.record_id = record.get('PMID')
-        #print("ID:", self.record_id)
+        self.record_id = record['PMID']
         self.article_identifier = record.get('AID', None)
         self.author = record.get('AU', None)
         self.affiliation = record.get('AD', None)
@@ -25,16 +25,13 @@ class PubMedRecord:
         self.publication_type = record.get('PT', None)
         self.location_identifier = record.get('LID', None)
         self.abstract = record.get('AB', None)
-        #print("Abstract:", self.abstract)
         self.ner = self.process()
-        #print(self.ner)
         self.drug_entities = self.detect_drugs()
         self.ade_entities = self.detect_ade()
 
     def process(self):
         ner_pipeline = load_ner_model()
         ner = ner_pipeline(self.abstract)
-        #print("NER output:", ner)
         return ner
 
     def detect_drugs(self):
@@ -65,10 +62,7 @@ class PubMedRecord:
 
         return ade_list
 
-    
-    
 
-    
 
 class PubMedRecordsList:
     
@@ -79,7 +73,39 @@ class PubMedRecordsList:
     def unique_drugs(self):
         unique_drugs = set()
         for record in self.records:
-            if record.drug_entities is not None:
-                for drug in record.drug_entities:
-                    unique_drugs.add(drug)
+            for drug in record.drug_entities:
+                unique_drugs.add(drug)
         return unique_drugs
+
+        
+
+#class Drug:
+    '''Users will get the heatmap based on number of articles with respect to drug names on x-axis and side effects on y-axis. The list of ADEs (ade_list) for a particular drug is 
+    a summary of all ADEs that were found in abstracts where the drug was mentioned. However, when a study compares multiple drugs, 
+    it's not guaranteed that every ADE listed is associated with our drug of interest. To address this issue, 
+    the ML model should be trained to identify the relationship between the drug-entity and the ADE-entity.
+    As of now, if an unexpected ADE is found in the context of our drug, users can easily access the Pubmed records from which the entities were extracted via clicking on the number of articles on the heatmap.'''
+'''
+    def __init__(self, drug_name, PubMedRecordsList):
+        #self.name = drug_name
+        self.records_reported_the_drug = [record for record in PubMedRecordsList if self.name in record.drug_entities]
+        self.ade_list = list(set([record.ade_entities for record in self.records_reported_the_drug]))
+
+
+
+class ADE:
+
+    def __init__(self, ade_name, drug):
+        self.ade_name = ade_name
+        self.records = drug.records_reported_the_drug       
+        self.list_of_records_per_ade = [record for record in drug.records_reported_the_drug if ade_name in record.ade_entities]
+
+'''
+
+if __name__ == "__main__":
+    # Code to execute when the script is run directly
+    with open("test_data_9.txt") as handle:
+        records_list = PubMedRecordsList(handle)
+
+    with open("ner_out_short.pkl", "wb") as file:
+        pickle.dump(records_list, file)
