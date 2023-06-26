@@ -68,7 +68,9 @@ def demo(request):
                 location_identifier=record.location_identifier,
                 abstract=record.abstract,
                 drug_entities = record.drug_entities,
-                ade_entities = record.ade_entities
+                ade_entities = record.ade_entities,
+                ade_normalized = record.ade_normalized,
+                cuis = record.cuis
             )
             pubmed_record.save()
 
@@ -94,6 +96,10 @@ def generate_json(request):
             'publication_type': record.publication_type,
             'location_identifier': record.location_identifier,
             'abstract': record.abstract,
+            'drug_entities': record.drug_entities,
+            'ade_entities': record.ade_entities,
+            'ade_normalized': record.ade_normalized,
+            'cuis': record.cuis
         }
         data.append(record_data)
     

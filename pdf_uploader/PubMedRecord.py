@@ -1,5 +1,26 @@
 from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 from Bio import Medline
+from skr_web_api import Submission, METAMAP_INTERACTIVE_URL
+#import time
+import os
+from dotenv import load_dotenv
+
+# Specify the path to the .env file
+dotenv_path = './.env'  # the path to my .env file
+
+# Load the environment variables from the .env file
+load_dotenv(dotenv_path)
+
+# Retrieve the email address and API key from environment variables
+email = os.getenv('UTS_EMAIL')
+api_key = os.getenv('UTS_API_KEY')
+
+# Create a MetaMap submission instance
+inst = Submission(email, api_key)
+
+# Set the MetaMap service URL if necessary
+service_url = METAMAP_INTERACTIVE_URL
+inst.set_serviceurl(service_url)
 
 def load_ner_model():
     model_checkpoint = "jsylee/scibert_scivocab_uncased-finetuned-ner"
@@ -25,16 +46,14 @@ class PubMedRecord:
         self.publication_type = record.get('PT', None)
         self.location_identifier = record.get('LID', None)
         self.abstract = record.get('AB', None)
-        #print("Abstract:", self.abstract)
         self.ner = self.process()
-        #print(self.ner)
         self.drug_entities = self.detect_drugs()
         self.ade_entities = self.detect_ade()
+        self.ade_normalized, self.cuis = self.process_ade()
 
     def process(self):
         ner_pipeline = load_ner_model()
         ner = ner_pipeline(self.abstract)
-        #print("NER output:", ner)
         return ner
 
     def detect_drugs(self):
@@ -64,6 +83,37 @@ class PubMedRecord:
         ade_list = list(set([d.strip() for d in ade_list if d]))
 
         return ade_list
+    
+    def process_ade(self):
+        input_text = self.ade_entities
+
+        # Initialize MetaMap interactive mode with the input text
+        inst.init_mm_interactive(input_text, args='-N')
+        print("MetaMap interactive initialized with input text:", input_text)
+
+        # Submit the request to MetaMap
+        response = inst.submit()
+        print("MetaMap request submitted")
+
+        # Extract the concept names and CUIs from the response content
+        unique_concept_names = []
+        cuis = []
+        for line in response.content.decode().split('\n'):
+            if line.startswith('USER|MMI'):
+                fields = line.split('|')
+                if len(fields) >= 6:
+                    name = fields[3]
+                    cui = fields[4]
+                    unique_concept_names.append(name)
+                    cuis.append(cui)
+        unique_concept_names = list(set(unique_concept_names))
+
+        print("Unique Concept Names:", unique_concept_names)
+        print("CUIs:", cuis)
+
+        return unique_concept_names, cuis
+
+    
 
     
     
