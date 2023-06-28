@@ -1,10 +1,23 @@
+'''
 from django.urls import path
+from pdf_uploader import views
 
-from . import views
+app_name = 'pdf_uploader'
 
 urlpatterns = [
-    path("", views.upload, name="upload"),
     path('demo/', views.demo, name='demo'),
-    path("generate_json/", views.generate_json, name="generate_json"),
-    #path("heatmap/", views.heatmap, name="heatmap"),
+    path('download_json/', views.download_json, name='download_json'),
+    path('', views.upload, name='upload'),
+]
+'''
+
+from django.urls import path
+from . import views
+
+app_name = 'pdf_uploader'
+
+urlpatterns = [
+    path('', views.upload, name='upload'),
+    path('demo/', views.demo, name='demo'),
+    path('download_json/', views.download_json, name='download_json'),
 ]

@@ -1,10 +1,12 @@
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 from pdf_uploader.PubMedRecord import PubMedRecord, PubMedRecordsList
-import json
 from pdf_uploader.models import PubMedRecord
-from django.http import HttpResponse
+from django.http import JsonResponse
+from .models import PubMedRecord
 import os
+
+
 
 """
 @csrf_exempt
@@ -77,13 +79,46 @@ def demo(request):
     context = {}  # Add any required data to the context dictionary
     return render(request, 'success.html', context)
 
+'''
+import requests
 
+def demo(request):
+    # Use the pre-existing file for demo
+    file_path = os.path.join(os.path.dirname(__file__), 'test_data_9.txt')
 
+    try:
+        with open(file_path, 'r', encoding='utf-8') as handle:
+            records_list = PubMedRecordsList(handle)
+        
+            for record in records_list.records:
+                pubmed_record = PubMedRecord(
+                    record_id=record.record_id,
+                    article_identifier=record.article_identifier,
+                    author=record.author,
+                    affiliation=record.affiliation,
+                    title=record.title,
+                    publication_date=record.publication_date,
+                    publication_type=record.publication_type,
+                    location_identifier=record.location_identifier,
+                    abstract=record.abstract,
+                    drug_entities=record.drug_entities,
+                    ade_entities=record.ade_entities,
+                    ade_normalized=record.ade_normalized,
+                    cuis=record.cuis
+                )
+                pubmed_record.save()
 
+        context = {}  # Add any required data to the context dictionary
+        return render(request, 'success.html', context)
+    except requests.exceptions.RequestException:
+        # Handle connection error here
+        return render(request, 'connection_error.html')
 
-def generate_json(request):
+'''
+
+def download_json(request):
     records = PubMedRecord.objects.all()
-    
+
     data = []
     for record in records:
         record_data = {
@@ -102,18 +137,5 @@ def generate_json(request):
             'cuis': record.cuis
         }
         data.append(record_data)
-    
-    json_data = json.dumps(data)
-    
-    response = HttpResponse(json_data, content_type='application/json')
-    response['Content-Disposition'] = 'attachment; filename="pubmed_records.json"'
-    
-    return response
 
-
-
-
-
-
-
-    
+    return JsonResponse(data, safe=False, content_type='application/json')

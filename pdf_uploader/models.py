@@ -20,5 +20,3 @@ class PubMedRecord(models.Model):
 
     def __str__(self):
         return f"PubMedRecord {self.record_id}"
-
-

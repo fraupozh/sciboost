@@ -1,5 +1,15 @@
-<!-- success.html -->
-<h1>Data processed and saved successfully!</h1>
+{% load static %}
+<!DOCTYPE html>
+<html>
+<script src="{% static 'drug_buttons.js' %}"></script>
+<body>
+    <p>Data is successfully processed and saved!</p>
+    <a href="{% url 'pdf_uploader:download_json' %}" download="pubmed_records.json">
+        <button>Download JSON</button>
+    </a>
+    <button onclick="generateButtons()">Click me!</button>
 
-<a href="{% url 'generate_json' %}" class="btn btn-primary">Visualize Results</a>
+    <div id="button-container"></div>
+</body>
+</html>
 
