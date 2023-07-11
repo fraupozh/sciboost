@@ -1,0 +1,278 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/webfonts/fa-solid-900.woff2') format('woff2'),
+       url('/static/webfonts/fa-solid-900.woff') format('woff'),
+       url('/static/webfonts/fa-solid-900.ttf') format('truetype');
+}
+
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background: #f5f6fa;
+}
+
+.wrapper .sidebar{
+    background: rgb(5, 68, 104);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 225px;
+    height: 100%;
+    padding: 20px 0;
+    transition: all 0.5s ease;
+}
+.wrapper .sidebar .profile{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.wrapper .sidebar .profile img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.wrapper .sidebar .profile h3{
+    color: #ffffff;
+    margin: 10px 0 5px;
+}
+
+.wrapper .sidebar .profile p{
+    color: rgb(206, 240, 253);
+    font-size: 14px;
+}
+.wrapper .sidebar ul li a{
+    display: block;
+    padding: 13px 30px;
+    border-bottom: 1px solid #10558d;
+    color: rgb(241, 237, 237);
+    font-size: 16px;
+    position: relative;
+}
+
+.wrapper .sidebar ul li a .icon{
+    color: #dee4ec;
+    width: 30px;
+    display: inline-block;
+}
+.wrapper .sidebar ul li a:hover,
+.wrapper .sidebar ul li a.active{
+    color: #0c7db1;
+
+    background:white;
+    border-right: 2px solid rgb(5, 68, 104);
+}
+
+.wrapper .sidebar ul li a:hover .icon,
+.wrapper .sidebar ul li a.active .icon{
+    color: #0c7db1;
+}
+
+.wrapper .sidebar ul li a:hover:before,
+.wrapper .sidebar ul li a.active:before{
+    display: block;
+}
+
+/* Upload command */
+
+#one
+{
+  margin-top:100px;
+ box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.2);
+ margin-left: 450px;
+ margin-right: 200px;
+}
+.it .btn-orange
+{
+	background-color: transparent;
+	border-color: #777!important;
+	color: #858484;
+	text-align: left;
+    margin-left: 20px;
+  width: 100%;
+}
+
+/* Container */
+.container {
+    padding: 20px;
+}
+
+.content {
+    margin-top: 100px;
+    padding-left: 20px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-left: 280px;
+    font-size: 35px;
+}
+
+
+h2{
+    text-align: right;
+    margin-top: 70px;
+    margin-right:110px;
+    margin-bottom: 40px;
+    font-size: 17px;
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.form-group1 {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    background-color: #0099CC;
+    border-radius: 50px; 
+    text-transform: uppercase; 
+    color: white;
+    padding: 8px;
+    font-size: 12px;
+}
+
+.btn {
+    margin-right: 10px;
+}
+.vis-lize{
+    margin-left: 280px;
+    font-size: 20px;
+    font-style: underline;
+    margin-top: 50px;
+
+}
+
+/* Buttons */
+.drug-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #88c2e6;
+    border: black;
+    border-radius: 9px;
+    cursor: pointer;
+  }
+.clicked-button{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #c9d1d6;
+    border: black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+button {
+    display: inline-block;
+    margin: 10px;
+    background-color: #acb1b5;
+    border: black;
+    border-radius: 9px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+/* Table styles */
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin-top:50px;
+    margin-left: 280px;
+  }
+  
+  th,
+  td {
+    padding: 7px;
+    text-align: center;
+    border: 1px solid #dddddd;
+  }
+  
+  th {
+    background-color: #74b6f0;
+    font-weight: bold;
+  }
+  
+  tr:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .selected {
+    background-color: #fdfa55;
+  }
+  
+  /* Record styles */
+  .record-container {
+    padding: 10px;
+    margin-top:20px;
+    margin-left:280px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .record-key {
+    font-weight: bold;
+    margin-top:7px;
+    size: 20px;
+    color:#296ab4;
+    text-decoration: underline;
+  }
+  
+  .record-value {
+    margin-bottom: 3px;
+  }
+  
+  .record-value.truncated {
+    cursor: pointer;
+  }
+  
+  .record-value.expanded {
+    white-space: normal;
+  }
+  
+  .record-property {
+    margin-bottom: 3px;
+  }
+  
+  /* Customization can be added below this line */
+  
