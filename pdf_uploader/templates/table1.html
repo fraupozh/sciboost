@@ -1,0 +1,48 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SciBoost</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'all.css' %}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Top menu -->
+        <div class="sidebar">
+          <div class="profile">
+            <img src="{% static 'sci.jpg' %}" alt="profile_picture">
+            <h3>SciBoost</h3>
+          </div>
+          <ul>
+            <li>
+              <a>
+                <span class="icon"><i class="fas fa-file"></i></span>
+                <span class="item">Upload</span>
+              </a>
+            </li>
+            <li>
+              <a>
+                <span class="icon"><i class="fas fa-user-shield"></i></span>
+                <span class="item">Results</span>
+              </a>
+            </li>
+            <li>
+              <a>
+                <span class="icon"><i class="fas fa-cog"></i></span>
+                <span class="item">Settings</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+    </div>
+
+    <h1 style="margin-left: 280px;">Display Second Dictionary</h1>
+    <p style="margin-left: 280px;margin-top: 50px;">waiting the code to create a table</p>
+
+    <script src="{% static 'table.js' %}"></script>
+</body>
+</html>

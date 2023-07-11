@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: url('/static/webfonts/fa-solid-900.woff2') format('woff2'),
-       url('/static/webfonts/fa-solid-900.woff') format('woff'),
-       url('/static/webfonts/fa-solid-900.ttf') format('truetype');
-}
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/static/webfonts/fa-solid-900.woff2') format('woff2'),
+         url('/static/webfonts/fa-solid-900.woff') format('woff'),
+         url('/static/webfonts/fa-solid-900.ttf') format('truetype');
+  }
 
 *{
     list-style: none;
@@ -124,10 +124,11 @@ h2{
     text-align: right;
     margin-top: 70px;
     margin-right:110px;
-    margin-bottom: 40px;
     font-size: 17px;
     cursor: pointer;
     text-decoration:underline;
+
+
 }
 
 .form-group {
@@ -213,66 +214,4 @@ button {
 }
 
 
-/* Table styles */
-table {
-    border-collapse: collapse;
-    width: 70%;
-    margin-top:50px;
-    margin-left: 280px;
-  }
-  
-  th,
-  td {
-    padding: 7px;
-    text-align: center;
-    border: 1px solid #dddddd;
-  }
-  
-  th {
-    background-color: #74b6f0;
-    font-weight: bold;
-  }
-  
-  tr:hover {
-    background-color: #f9f9f9;
-  }
-  
-  .selected {
-    background-color: #fdfa55;
-  }
-  
-  /* Record styles */
-  .record-container {
-    padding: 10px;
-    margin-top:20px;
-    margin-left:280px;
-    margin-bottom: 10px;
-    border: 1px solid #ddd;
-  }
-  
-  .record-key {
-    font-weight: bold;
-    margin-top:7px;
-    size: 20px;
-    color:#296ab4;
-    text-decoration: underline;
-  }
-  
-  .record-value {
-    margin-bottom: 3px;
-  }
-  
-  .record-value.truncated {
-    cursor: pointer;
-  }
-  
-  .record-value.expanded {
-    white-space: normal;
-  }
-  
-  .record-property {
-    margin-bottom: 3px;
-  }
-  
-  /* Customization can be added below this line */
   

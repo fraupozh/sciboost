@@ -3,8 +3,10 @@ from django.db import models
 class PubMedRecord(models.Model):
     record_id = models.IntegerField(primary_key=True)
     article_identifier = models.CharField(max_length=255, null=True)
-    author = models.CharField(max_length=255, null=True)
-    affiliation = models.CharField(max_length=255, null=True)
+    #author = models.CharField(max_length=255, null=True)
+    author = models.TextField(null=True, blank=True)
+    #affiliation = models.CharField(max_length=255, null=True)
+    affiliation = models.TextField(null=True, blank=True)
     title = models.CharField(max_length=255, null=True)
     publication_date = models.CharField(max_length=255, null=True)
     publication_type = models.CharField(max_length=255, null=True)

@@ -1,0 +1,58 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<script src="{% static 'drug_buttons.js' %}"></script>
+<head>
+    <title>SciBoost</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="sidebar">
+            <div class="profile">
+                <img src="{% static 'sci.jpg' %}" alt="profile_picture">
+                <h3>SciBoost</h3>
+            </div>
+            <ul>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-file"></i></span>
+                        <span class="item">Upload</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-user-shield"></i></span>
+                        <span class="item">Results</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-cog"></i></span>
+                        <span class="item">Settings</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="main-content"> <!-- Add this div to enclose the main content area -->
+            <h1 style="margin-left:270px">Data processed and saved successfully!</h1>
+            
+            <div style="margin-left: 260px;margin-top:50px;">
+                <div id="viz-data"></div>
+                <ul id="saved-drugs"></ul>
+            </div>
+            
+            <a href="{% url 'pdf_uploader:download_json' %}" download="pubmed_records.json">
+                <button>Download JSON</button>
+            </a>
+            <button onclick="generateButtons()">Click me!</button>
+        </div>
+    </div>
+    
+    <h2>Process data ...</h2>
+</body>
+</html>
+

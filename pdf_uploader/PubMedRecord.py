@@ -32,7 +32,7 @@ def load_ner_model():
 
     return ner_pipeline
 
-class PubMedRecord:
+class PubMedRecordM:
 
     def __init__(self, record):
         #record = {key.decode('utf-8'): [value.decode('utf-8') for value in values] for key, values in record.items()}
@@ -123,7 +123,7 @@ class PubMedRecord:
 class PubMedRecordsList:
     
     def __init__(self, pubmed_file):
-        self.records = [PubMedRecord(record) for record in Medline.parse(pubmed_file)]
+        self.records = [PubMedRecordM(record) for record in Medline.parse(pubmed_file)]
         self.list_of_unique_drugs = list(self.unique_drugs())
 
     def unique_drugs(self):

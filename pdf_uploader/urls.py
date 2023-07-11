@@ -20,4 +20,6 @@ urlpatterns = [
     path('', views.upload, name='upload'),
     path('demo/', views.demo, name='demo'),
     path('download_json/', views.download_json, name='download_json'),
+    path('table/', views.table_view, name='table'),
+    path('custom_json/', views.custom_json, name='custom_json'),
 ]

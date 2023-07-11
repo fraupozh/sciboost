@@ -1,15 +1,78 @@
 {% load static %}
 <!DOCTYPE html>
-<html>
-<script src="{% static 'drug_buttons.js' %}"></script>
+<html lang="en">
+<head>
+    <title>SciBoost.de</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'all.css' %}">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
 <body>
-    <p>Data is successfully processed and saved!</p>
-    <a href="{% url 'pdf_uploader:download_json' %}" download="pubmed_records.json">
-        <button>Download JSON</button>
-    </a>
-    <button onclick="generateButtons()">Click me!</button>
 
-    <div id="button-container"></div>
+  <div class="wrapper">
+    <!-- Top menu -->
+    <div class="sidebar">
+      <div class="profile">
+        <img src="{% static 'sci.jpg' %}" alt="profile_picture">
+        <h3>SciBoost</h3>
+      </div>
+      <ul>
+        <li>
+          <a href="#">
+            <span class="icon"><i class="fas fa-file"></i></span>
+            <span class="item">Upload</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="icon"><i class="fas fa-user-shield"></i></span>
+            <span class="item">Results</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="icon"><i class="fas fa-cog"></i></span>
+            <span class="item">Settings</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div>
+    <div class="main-content"> <!-- Add this div to enclose the main content area -->
+      <h1 style="margin-left:270px">Data processed and saved successfully!</h1>
+      
+      <div style="margin-left: 260px;margin-top:50px;">
+          <div id="viz-data"></div>
+          <ul id="saved-drugs"></ul>
+  </div>
+
+  <!-- The button works when you make the function generateButtons() functional -->
+  <!-- <button class="dropbtn" style="margin-left: 280px; margin-top: 50px;" onclick="generateButtons()">Display the drugs</button> -->
+
+  <!-- This line is connected with js and displays the drugs after the button is clicked -->
+  <button id="display-drugs-btn" style="margin-left: 280px; margin-top: 50px;" >Display the drugs</button>
+
+  <!-- The drugs are being displayed and saved in the console after they have been clicked-->
+  <div style="margin-left: 260px;margin-top:50px;">
+    <div id="viz-data"></div>
+    <ul id="saved-drugs"></ul>
+  </div>
+
+  <!-- Once the user clicks on Overview, he is sent to another html page -->
+  <div>
+    <h2 id="overview-btn" >Overview...</h2>
+  </div>
+  
+
+  <script src="{% static 'success.js' %}"></script>
+
+
 </body>
 </html>
 
