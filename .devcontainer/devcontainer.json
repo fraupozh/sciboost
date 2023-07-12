@@ -1,6 +1,6 @@
 {
   "name": "Python 3.10",
-  "image": "python:3.10.10-slim",
+  "image": "python:3.10-slim",
   "extensions": [
     "ms-python.python",
     "ms-toolsai.jupyter"

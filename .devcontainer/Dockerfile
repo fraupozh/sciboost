@@ -1,5 +1,5 @@
-# Use the slim version of Python 3.10.10 as the base image
-FROM python:3.10.10-slim
+# Use the slim version of Python 3.10 as the base image
+FROM python:3.10-slim
 
 # Set environment variables
 ENV PYTHONUNBUFFERED=1 \
