@@ -1,32 +1,32 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "hostRequirements": {
-    "cpus": 4
-  },
-  "waitFor": "onCreateCommand",
-  "updateContentCommand": "pip install -r requirements.txt && python manage.py migrate",
-  "postCreateCommand": "",
-  "postAttachCommand": {
-    "server": "python manage.py runserver"
-  },
-  "customizations": {
-    "codespaces": {
-      "openFiles": [
-        "hello_world/templates/index.html"
-      ]
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "hostRequirements": {
+      "cpus": 4
     },
-    "vscode": {
-      "extensions": [
-        "ms-python.python"
-      ]
-    }
-  },
-  "portsAttributes": {
-    "8000": {
-      "label": "Application",
-      "onAutoForward": "openPreview"
-    }
-  },
-  "forwardPorts": [8000]
-}
-
+    "waitFor": "onCreateCommand",
+    "updateContentCommand": "pip install -r requirements.txt && python manage.py migrate",
+    "postCreateCommand": "python3 -m pip install requests requests-html wheel && python3 -m pip install --upgrade pip build && git clone https://github.com/lhncbc/skr_web_python_api.git && cd skr_web_python_api && python3 -m build && python3 -m pip install dist/skr_web_api-0.1-py3-none-any.whl",
+    "postAttachCommand": {
+      "server": "python manage.py runserver"
+    },
+    "customizations": {
+      "codespaces": {
+        "openFiles": [
+          "hello_world/templates/index.html"
+        ]
+      },
+      "vscode": {
+        "extensions": [
+          "ms-python.python"
+        ]
+      }
+    },
+    "portsAttributes": {
+      "8000": {
+        "label": "Application",
+        "onAutoForward": "openPreview"
+      }
+    },
+    "forwardPorts": [8000]
+  }
+  
