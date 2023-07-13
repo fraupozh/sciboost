@@ -1,19 +1,23 @@
+import os
 from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 from Bio import Medline
 from skr_web_api import Submission, METAMAP_INTERACTIVE_URL
 #import time
-import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # Specify the path to the .env file
-dotenv_path = './.env'  # the path to my .env file
+#dotenv_path = './.env'  # the path to my .env file
 
 # Load the environment variables from the .env file
-load_dotenv(dotenv_path)
+#load_dotenv(dotenv_path)
 
 # Retrieve the email address and API key from environment variables
-email = os.getenv('UTS_EMAIL')
-api_key = os.getenv('UTS_API_KEY')
+#email = os.getenv('UTS_EMAIL')
+#api_key = os.getenv('UTS_API_KEY')
+
+# Retrieve the email address and API key from GitHub Secrets
+email = os.environ['UTS_EMAIL']
+api_key = os.environ['UTS_API_KEY']
 
 # Create a MetaMap submission instance
 inst = Submission(email, api_key)
