@@ -148,11 +148,11 @@ def download_json(request):
 
     return JsonResponse(data, safe=False, content_type='application/json')
 
-'''
+
 def table_view(request):
     # Your view logic here
     return render(request, 'table.html')
-'''
+
 '''
 from django.db.models import Q
 from functools import reduce
