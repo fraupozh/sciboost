@@ -1,0 +1,3 @@
+[submodule "skr_web_python_api"]
+	path = skr_web_python_api
+	url = https://github.com/lhncbc/skr_web_python_api.git
